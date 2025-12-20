@@ -1,0 +1,7 @@
+id = "cyberpunk-scarlet"
+name = "Cyberpunk Scarlet"
+version = "0.0.1"
+schema_version = 1
+authors = ["maykr"]
+description = "A cyberpunk-inspired theme with scarlet red accents, based on the Cyberpunk Scarlet Protocol iTerm2 color scheme. Includes dark and light variants."
+repository = "https://github.com/YOUR_USERNAME/cyberpunk-scarlet-zed"
