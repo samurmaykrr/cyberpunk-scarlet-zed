@@ -25,28 +25,41 @@
 </details>
 
 <details>
-<summary>✨ Cyberpunk Scarlet Protocol (Dark + Blur)</summary>
-<!-- Add screenshot here -->
-<img src="assets/preview-dark-blur.png" alt="Cyberpunk Scarlet Protocol Dark Blur Theme">
+<summary>✨ Cyberpunk Scarlet Protocol (Dark + Blur Variants)</summary>
+The blur variants offer three levels of transparency:
+- **Light**: More transparent (60% opacity)
+- **Regular**: Medium blur (84% opacity)
+- **Heavy**: Less transparent (88% opacity)
+
+<!-- Add screenshots here -->
+<img src="assets/preview-dark-blur.png" alt="Cyberpunk Scarlet Protocol Dark Blur Themes">
 </details>
 
 <details>
-<summary>☀️ Cyberpunk Scarlet Light (Light)</summary>
+<summary>☀️ Cyberpunk Scarlet Protocol Light (Light)</summary>
 <!-- Add screenshot here -->
 <img src="assets/preview-light.png" alt="Cyberpunk Scarlet Light Theme">
 </details>
 
 <details>
-<summary>💫 Cyberpunk Scarlet Light (Light + Blur)</summary>
-<!-- Add screenshot here -->
-<img src="assets/preview-light-blur.png" alt="Cyberpunk Scarlet Light Blur Theme">
+<summary>💫 Cyberpunk Scarlet Protocol Light (Light + Blur Variants)</summary>
+The blur variants offer three levels of transparency:
+- **Light**: More transparent (60% opacity)
+- **Regular**: Medium blur (84% opacity)
+- **Heavy**: Less transparent (88% opacity)
+
+<!-- Add screenshots here -->
+<img src="assets/preview-light-blur.png" alt="Cyberpunk Scarlet Light Blur Themes">
 </details>
 
 ## ✨ Features
 
 - **Dark Mode**: Deep cyberpunk aesthetics with scarlet red highlights
 - **Light Mode**: Clean, futuristic light variant with scarlet accents
-- **Blur Variants**: Both dark and light themes include blur variants for a modern, translucent effect
+- **Blur Variants**: Both dark and light themes include **three blur intensity levels**:
+  - **Light** (60% opacity) - Maximum transparency for a subtle blur effect
+  - **Regular** (84% opacity) - Balanced blur for everyday use
+  - **Heavy** (88% opacity) - Minimal transparency for better readability
 - **Terminal Support**: Carefully crafted ANSI colors based on the Cyberpunk Scarlet Protocol iTerm2 theme
 - **Syntax Highlighting**: Optimized for readability with vibrant cyberpunk-inspired colors
 
@@ -62,10 +75,18 @@
 4. Search for _Cyberpunk Scarlet_ and click Install
 5. Open the command palette again and type _theme selector: toggle_
 6. Select your preferred variant:
-   - **Cyberpunk Scarlet Protocol** - Dark theme
-   - **Cyberpunk Scarlet Protocol (Blur)** - Dark theme with blur effect
-   - **Cyberpunk Scarlet Protocol Light** - Light theme
-   - **Cyberpunk Scarlet Protocol Light (Blur)** - Light theme with blur effect
+   
+   **Dark Themes:**
+   - **Cyberpunk Scarlet Protocol** - Solid dark theme
+   - **Cyberpunk Scarlet Protocol (Blur) [Light]** - Dark with maximum transparency
+   - **Cyberpunk Scarlet Protocol (Blur)** - Dark with medium blur
+   - **Cyberpunk Scarlet Protocol (Blur) [Heavy]** - Dark with minimal transparency
+   
+   **Light Themes:**
+   - **Cyberpunk Scarlet Protocol Light** - Solid light theme
+   - **Cyberpunk Scarlet Protocol Light (Blur) [Light]** - Light with maximum transparency
+   - **Cyberpunk Scarlet Protocol Light (Blur)** - Light with medium blur
+   - **Cyberpunk Scarlet Protocol Light (Blur) [Heavy]** - Light with minimal transparency
 
 ### Manual Installation (Development)
 
