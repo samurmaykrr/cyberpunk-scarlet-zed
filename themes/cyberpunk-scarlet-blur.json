@@ -398,7 +398,17 @@
           }
         },
         "background.appearance": "blurred",
-        "pane_group.border": "#2a2a3515"
+        "panel.overlay_background": "#161620ff",
+        "pane_group.border": "#2a2a3515",
+        "panel.indent_guide": "#2a2a3599",
+        "panel.indent_guide_active": "#606070ff",
+        "panel.indent_guide_hover": "#ea3355ff",
+        "editor.indent_guide": "#2a2a3599",
+        "editor.indent_guide_active": "#606070ff",
+        "minimap.thumb.background": "#ea335533",
+        "minimap.thumb.hover_background": "#ea335566",
+        "minimap.thumb.active_background": "#ea335599",
+        "minimap.thumb.border": null
       }
     },
     {
@@ -796,7 +806,17 @@
           }
         },
         "background.appearance": "blurred",
-        "pane_group.border": "#2a2a3515"
+        "panel.overlay_background": "#161620ff",
+        "pane_group.border": "#2a2a3515",
+        "panel.indent_guide": "#2a2a3599",
+        "panel.indent_guide_active": "#606070ff",
+        "panel.indent_guide_hover": "#ea3355ff",
+        "editor.indent_guide": "#2a2a3599",
+        "editor.indent_guide_active": "#606070ff",
+        "minimap.thumb.background": "#ea335533",
+        "minimap.thumb.hover_background": "#ea335566",
+        "minimap.thumb.active_background": "#ea335599",
+        "minimap.thumb.border": null
       }
     },
     {
@@ -1194,7 +1214,17 @@
           }
         },
         "background.appearance": "blurred",
-        "pane_group.border": "#2a2a3515"
+        "panel.overlay_background": "#161620ff",
+        "pane_group.border": "#2a2a3515",
+        "panel.indent_guide": "#2a2a3599",
+        "panel.indent_guide_active": "#606070ff",
+        "panel.indent_guide_hover": "#ea3355ff",
+        "editor.indent_guide": "#2a2a3599",
+        "editor.indent_guide_active": "#606070ff",
+        "minimap.thumb.background": "#ea335533",
+        "minimap.thumb.hover_background": "#ea335566",
+        "minimap.thumb.active_background": "#ea335599",
+        "minimap.thumb.border": null
       }
     },
     {
@@ -1592,7 +1622,17 @@
           }
         },
         "background.appearance": "blurred",
-        "pane_group.border": "#d0d0d815"
+        "panel.overlay_background": "#f0f0f4ff",
+        "pane_group.border": "#d0d0d815",
+        "panel.indent_guide": "#d0d0d899",
+        "panel.indent_guide_active": "#909098ff",
+        "panel.indent_guide_hover": "#c41035ff",
+        "editor.indent_guide": "#d0d0d899",
+        "editor.indent_guide_active": "#909098ff",
+        "minimap.thumb.background": "#ea335533",
+        "minimap.thumb.hover_background": "#ea335566",
+        "minimap.thumb.active_background": "#ea335599",
+        "minimap.thumb.border": null
       }
     },
     {
@@ -1990,7 +2030,17 @@
           }
         },
         "background.appearance": "blurred",
-        "pane_group.border": "#d0d0d815"
+        "panel.overlay_background": "#f0f0f4ff",
+        "pane_group.border": "#d0d0d815",
+        "panel.indent_guide": "#d0d0d899",
+        "panel.indent_guide_active": "#909098ff",
+        "panel.indent_guide_hover": "#c41035ff",
+        "editor.indent_guide": "#d0d0d899",
+        "editor.indent_guide_active": "#909098ff",
+        "minimap.thumb.background": "#ea335533",
+        "minimap.thumb.hover_background": "#ea335566",
+        "minimap.thumb.active_background": "#ea335599",
+        "minimap.thumb.border": null
       }
     },
     {
@@ -2388,7 +2438,17 @@
           }
         },
         "background.appearance": "blurred",
-        "pane_group.border": "#d0d0d815"
+        "panel.overlay_background": "#f0f0f4ff",
+        "pane_group.border": "#d0d0d815",
+        "panel.indent_guide": "#d0d0d899",
+        "panel.indent_guide_active": "#909098ff",
+        "panel.indent_guide_hover": "#c41035ff",
+        "editor.indent_guide": "#d0d0d899",
+        "editor.indent_guide_active": "#909098ff",
+        "minimap.thumb.background": "#ea335533",
+        "minimap.thumb.hover_background": "#ea335566",
+        "minimap.thumb.active_background": "#ea335599",
+        "minimap.thumb.border": null
       }
     }
   ]
