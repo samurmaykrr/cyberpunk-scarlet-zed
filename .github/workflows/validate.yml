@@ -1,0 +1,39 @@
+name: Validate Theme
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Install jq
+        run: |
+          if command -v sudo &> /dev/null; then
+            sudo apt-get update
+            sudo apt-get install -y jq
+          else
+            apt-get update
+            apt-get install -y jq
+          fi
+      
+      - name: Validate JSON
+        run: |
+          for file in themes/*.json; do
+            echo "Validating $file..."
+            jq empty "$file" || exit 1
+          done
+      
+      - name: Check extension.toml
+        run: |
+          if [ ! -f extension.toml ]; then
+            echo "extension.toml not found!"
+            exit 1
+          fi
+          echo "extension.toml exists"
